@@ -47,13 +47,13 @@
 
 #### DevOps & Cloud Tools
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/terraform.svg" alt="Terraform" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ansible.svg" alt="Ansible" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" width="40" height="40">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </div>
 
 ---
@@ -67,7 +67,7 @@
 
 ### 📈 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azar-DD-SPM&show_icons=true&theme=radical&count_private=true&cache_buster=132" alt="Azar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azar-DD-SPM&show_icons=true&theme=radical&count_private=true&cache_buster=133" alt="Azar's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azar-DD-SPM&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
 </div>
 
