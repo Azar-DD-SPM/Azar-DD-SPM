@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey there, I’m Azar!</h1>
 
-  <img src="https://github.com/Azar-DD-SPM/Azar-DD-SPM/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/Azar-DD-SPM/Azar-DD-SPM/raw/main/profile-photo-circle.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
   <h3>AWS Cloud Admin ☁️</h3>
   <p><i>Building scalable solutions and automating workflows</i></p>
@@ -37,12 +37,12 @@
 
 #### Languages & Frameworks
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" alt="Flask" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
 #### DevOps & Cloud Tools
@@ -67,7 +67,7 @@
 
 ### 📈 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azar-DD-SPM&show_icons=true&theme=radical&count_private=true&cache_buster=133" alt="Azar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azar-DD-SPM&show_icons=true&theme=radical&count_private=true&cache_buster=134" alt="Azar's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azar-DD-SPM&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
 </div>
 
