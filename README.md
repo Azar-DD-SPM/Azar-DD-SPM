@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey there, I’m Azar!</h1>
 
-  <img src="https://github.com/Azar-DD-SPM/Azar-DD-SPM/raw/main/profile-photo-circle.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/Azar-DD-SPM/Azar-DD-SPM/raw/main/profile-photo.png" alt="Azar's Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
   <h3>AWS Cloud Admin ☁️</h3>
   <p><i>Building scalable solutions and automating workflows</i></p>
